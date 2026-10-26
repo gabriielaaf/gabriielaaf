@@ -5,8 +5,9 @@
 **Informatics and Computing Engineering Student**  
 Faculty of Engineering, University of Porto (FEUP)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/COLOCA-AQUI-O-TEU-PERFIL/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielafelgueiras)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gabriela.abreu.felgueiras@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabriielaaf)
 
 </div>
 
@@ -24,7 +25,9 @@ I'm passionate about technology, software development, and problem-solving. I en
 
 **Web Development:** HTML · CSS
 
-**Frameworks & Platforms:** Flutter · Firebase · SQLite
+**Frameworks & Platforms:** Flutter · Firebase
+
+**Databases:** SQLite
 
 **Tools & Technologies:** Git · GitHub · Docker · Linux
 
@@ -48,7 +51,7 @@ Java-based card game developed as an academic software engineering project.
 **Smart Campus**  
 IoT-based smart building prototype using Python, MQTT, and Coreflux.
 
-Explore more of my projects in my [GitHub repositories](https://github.com/gabriielaa08?tab=repositories).
+Explore more of my work in my [GitHub repositories](https://github.com/gabriielaaf?tab=repositories).
 
 ---
 
