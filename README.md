@@ -72,13 +72,13 @@ IoT & Smart Campus Energy Optimization Project
 
 ---
 
----
 
-<div align="center">
 
 ### 📫 Let's Connect!
-
+  
 Feel free to reach out!
+
+<div align="center">
 
 <br>
 
