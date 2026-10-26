@@ -10,6 +10,27 @@
 
 ---
 
+### 🚀 Projects
+
+- **[Weather Prediction](https://github.com/gabriielaaf/WeatherPrevision_EBEC)** — A Machine Learning project exploring meteorological prediction through classification, regression, and data analysis. 🥈 **2nd Place @ EBEC Porto '26**
+
+- **[Smart Campus](https://github.com/gabriielaaf/SmartCampus_SciTeCh)** — An IoT-based system designed to optimize campus energy consumption through intelligent building automation. 🥉 **3rd Place @ SciTech Porto '26**
+
+- **[League of Minix](https://github.com/gabriielaaf/LeagueOfMinix)** — A game inspired by League of Legends, developed for the Computer Laboratory (LCOM) course at FEUP.
+
+- **[CircleUP](https://github.com/gabriielaaf/CircleUP)** — A mobile app that encourages healthy and sustainable habits through daily challenges, social interaction, and friendly competition.
+
+- **[PowerPit](https://github.com/gabriielaaf/PowerPit)** — A gym management website that allows members to book fitness classes, check equipment availability, and interact with trainers.
+
+- **[DC SNAP](https://github.com/gabriielaaf/DCSNAP)** — A Java card game inspired by Marvel Snap, featuring strategic gameplay and card-reveal mechanics.
+
+- **[Scientific Conference Organization Tool](https://github.com/gabriielaaf/DA26-FirstProject)** — A graph-based system that uses maximum-flow algorithms to assign scientific papers to reviewers and analyze assignment robustness.
+
+- **[Compiler Register Allocation](https://github.com/gabriielaaf/DA26-SecondProject)** — A tool that applies graph coloring, web spilling, and splitting algorithms to optimize compiler register allocation.
+
+
+---
+
 ### 💻 Tech Stack
 
 **Programming Languages**
@@ -41,32 +62,29 @@
 
 ---
 
-### 🚀 Projects
-
-**CircleUP**  
-A collaborative mobile application developed with Flutter and Firebase.
-
-**DC SNAP**  
-A Java-based card game developed as an academic software engineering project.
-
-**Smart Campus**  
-An IoT-based smart building system designed to optimize energy consumption using Python, MQTT, and Coreflux.
-
----
-
 ### 🏆 Achievements
 
-🥈 **2nd Place — EBEC**  
+🥈 **2nd Place — EBEC Porto '26**  
 Data Science & Machine Learning Project
 
-🥉 **3rd Place — SciTech 26**  
+🥉 **3rd Place — SciTech Porto '26**  
 IoT & Smart Campus Energy Optimization Project
 
 ---
 
-### 📫 Contact Me
+---
 
-Feel free to connect with me!
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-30363D?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielafelgueiras)
-[![Email](https://img.shields.io/badge/Email-30363D?style=flat-square&logo=gmail&logoColor=white)](mailto:gabriela.abreu.felgueiras@gmail.com)
+### 📫 Let's Connect!
+
+Feel free to reach out!
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielafelgueiras)
+[![Email](https://img.shields.io/badge/Gmail-Send_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriela.abreu.felgueiras@gmail.com)
+
+<br>
+
+</div>
